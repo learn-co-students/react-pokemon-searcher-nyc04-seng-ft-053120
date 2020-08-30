@@ -14,9 +14,7 @@ class PokemonPage extends React.Component {
     name: '',
     hp: '',
     front: '',
-    back: '',
-
-    newPokemon: null
+    back: ''
   }
 
   // When component mounts, make fetch to DB and store retrieved pokemons in this.state.pokemons
