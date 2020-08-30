@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "70",
+      "sprites": {
+        "front": "https://cyndiquil721.files.wordpress.com/2014/01/bulbasaur.png",
+        "back": "https://vignette.wikia.nocookie.net/pokemon/images/f/fe/Bulbasaur_Back_Sprite_DPPHGSS.png/revision/latest/top-crop/width/220/height/220?cb=20101015011923"
+      },
+      "id": 151
     }
   ]
 }
