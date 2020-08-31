@@ -1,15 +1,6 @@
 {
   "pokemon": [
     {
-      "id": 2,
-      "name": "ivysaur",
-      "hp": 60,
-      "sprites": {
-        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
-        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
-      }
-    },
-    {
       "id": 3,
       "name": "venusaur",
       "hp": 80,
@@ -1340,6 +1331,17 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "mewtwo",
+      "hp": "106",
+      "frontUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+      "backUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
+      },
+      "id": 151
     }
   ]
 }
