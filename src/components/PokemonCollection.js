@@ -10,7 +10,7 @@ class PokemonCollection extends React.Component {
   render() {
     return (
       
-      <Card.Group itemsPerRow={6}>
+      <Card.Group itemsPerRow={5}>
         {this.renderPoke()}
       </Card.Group>
       

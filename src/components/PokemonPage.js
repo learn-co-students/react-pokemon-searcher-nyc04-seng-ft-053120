@@ -53,8 +53,8 @@ class PokemonPage extends React.Component {
         hp: obj.hp,
         name: obj.name,
         sprites:{
-          backUrl: obj.back,
-          frontUrl: obj.front
+          back: obj.backUrl,
+          front: obj.frontUrl
         }
       })
     }).then(resp => resp.json())
